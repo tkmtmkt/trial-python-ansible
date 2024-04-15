@@ -1,4 +1,4 @@
-study-python-ansible
+trial-python-ansible
 ====================
 
 環境設定
